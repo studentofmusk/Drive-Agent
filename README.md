@@ -53,8 +53,8 @@ https://www.python.org/downloads/
 
 2️⃣ Clone the Repository
 
-    git clone https://github.com/your-username/ppo-self-driving-car.git
-    cd ppo-self-driving-car
+    git clone https://github.com/studentofmusk/Drive-Agent
+    cd Drive-Agent
 
 
 
